@@ -1,0 +1,12 @@
+.array-container 
+{
+    display:flex;
+    justify-content: center;
+}
+
+.array-bar
+{
+    width:10px;
+    margin: 20px 5px;
+    background: linear-gradient(0deg, rgba(7,122,124,1) 0%, rgba(111,191,143,1) 43%, rgba(29,201,255,1) 100%);
+}
